@@ -1,0 +1,3 @@
+Capacitores
+Resistores
+Transformadores
